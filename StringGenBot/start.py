@@ -24,14 +24,14 @@ async def start(bot: Client, msg: Message):
 
 ⎈¦ بايـروجـرام مـيوزك للبوتات
 
-⎈¦ تم انشاء البوت بواسطة [𓌹 ↱ 𝘿ٓ𝙀ٓ𝙑ٰٰ 𝙆ٓ𝙎ٓ𝙃ٓ𝙏ٓ𝘼ّ𝙃ٰ 𝘽ٰٓ𝘼ٓ𝙎ٓ𝙃َٓ𝘼 ↲ 𓌺](https://t.me/DEV_KSHTAH)""",
+⎈¦ تم انشاء البوت بواسطة [𓌹 ↱ 𝘿ٓ𝙀ٓ𝙑ٰٰ 𝙈𝙪𝙝𝙖𝙢𝙢𝙚𝙙 𝙆𝙝𝙖𝙡𝙞𝙙 ↲ 𓌺](https://t.me/Mvhmed)""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(text="إضغط لبدا استخراج الكود", callback_data="generate")
                 ],
                 [
-                    InlineKeyboardButton("𝙎𝙊𝙐𝙍𝘾𝞝 𖧊 𝙏𝙐𝙍𝘽𝙊", url="https://t.me/SOURCE_Turbo"),
+                    InlineKeyboardButton("𝙈𝙪𝙝𝙖𝙢𝙢𝙚𝙙 𝙆𝙝𝙖𝙡𝙞𝙙", url="https://t.me/Mvhmed"),
                     InlineKeyboardButton("𝘿𝙀𝙑𝙀𝙇𝙊𝙋𝙀𝙍", user_id=OWNER_ID)
                 ]
             ]
